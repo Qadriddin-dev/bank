@@ -1,3 +1,3 @@
-module github.com/Qadriddin-dev/bank/v2
+module github.com/Qadriddin-dev/bank_1
 
-go 1.15
+go 1.16
